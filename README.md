@@ -15,17 +15,9 @@
 ## Избранные проекты
 
 ### [marketplace](https://github.com/altf4ples/marketplace) — Go, PostgreSQL, Redis, Docker
-Маркетплейс с API, транзакциями и state machine.  
+Маркетплейс с API, транзакциями, state machine и unit-тестами.  
 Что показывает: проектирование backend-сервиса, работу с PostgreSQL/Redis, Docker-запуск.  
 → [Архитектурные решения и запуск](https://github.com/altf4ples/marketplace#readme)
-
-### [surevyApp](https://github.com/altf4ples/surevyApp) — Python, Django
-Веб-приложение на Django.  
-Что показывает: работу с ORM, шаблонами, backend-логикой.
-
-### [API_tasks_Yandex](https://github.com/altf4ples/API_tasks_Yandex) — Python
-Задачи по API и backend-разработке.  
-Что показывает: практику Python и работу с API.
 
 ## Сейчас
 
