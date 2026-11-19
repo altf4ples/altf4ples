@@ -12,13 +12,6 @@
 - **Инструменты:** Git, Linux, GitHub Actions
 - **Изучаю:** Kafka, Grafana, Kubernetes
 
-## Избранные проекты
-
-### [marketplace](https://github.com/altf4ples/marketplace) - Go, PostgreSQL, Redis, Docker
-Маркетплейс с API, транзакциями, state machine и unit-тестами.  
-→ [Архитектурные решения и запуск](https://github.com/altf4ples/marketplace#readme)
-
-
 ## Контакты
 
 Telegram: @germihanov
