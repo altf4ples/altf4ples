@@ -14,7 +14,7 @@
 
 ## Избранные проекты
 
-### [marketplace](https://github.com/altf4ples/marketplace) — Go, PostgreSQL, Redis, Docker
+### [marketplace](https://github.com/altf4ples/marketplace) - Go, PostgreSQL, Redis, Docker
 Маркетплейс с API, транзакциями, state machine и unit-тестами.  
 Что показывает: проектирование backend-сервиса, работу с PostgreSQL/Redis, Docker-запуск.  
 → [Архитектурные решения и запуск](https://github.com/altf4ples/marketplace#readme)
