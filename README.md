@@ -4,7 +4,6 @@
 Студент ИВТ · открыт к стажировке и junior-позициям удалённо
 
 Пишу сервисы на Go и Python. Довожу до рабочего состояния: REST API, PostgreSQL, Redis, Docker, тесты, CI.  
-Сейчас усиливаю главный проект — маркетплейс на Go.
 
 ## Стек
 
@@ -36,7 +35,4 @@
 
 Telegram: @germihanov
 Email: germikhanovramzan@gmail.com  
-GitHub: [altf4ples](https://github.com/altf4ples)
-Telegram: [@altf4ples](https://t.me/altf4ples)  
-Email: germikhanovramzan@gmail.com  
-GitHub: [altf4ples](https://github.com/altf4ples)
+GitHub: https://github.com/altf4ples
