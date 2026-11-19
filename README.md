@@ -34,5 +34,7 @@
 ## Контакты
 
 Telegram: @germihanov
+
 Email: germikhanovramzan@gmail.com  
+
 GitHub: https://github.com/altf4ples
