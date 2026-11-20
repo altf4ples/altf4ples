@@ -19,3 +19,11 @@ Telegram: @germihanov
 Email: germikhanovramzan@gmail.com  
 
 GitHub: https://github.com/altf4ples
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altf4ples/altf4ples/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altf4ples/altf4ples/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/altf4ples/altf4ples/output/github-snake.svg">
+</picture>
