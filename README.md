@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=altf4ples&fontSize=70)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+я+разработчик;Пишу+код+на+Python;Люблю+открытый+код;Добро+пожаловать!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+я+разработчик;Пишу+код+на+Golang/Python;Люблю+открытый+код;Добро+пожаловать!)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=altf4ples&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altf4ples&layout=compact&theme=radical)
